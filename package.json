@@ -19,8 +19,7 @@
     "rn-networking-patch": "patch.js"
   },
   "scripts": {
-    "patch": "node patch.js",
-    "postinstall": "npm run patch"
+    "patch": "node patch.js"
   },
   "devDependencies": {
     "react-native": ">=0.60.0"
